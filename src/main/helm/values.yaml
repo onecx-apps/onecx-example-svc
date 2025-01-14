@@ -1,0 +1,6 @@
+app:
+  image:
+    repository: "onecx-apps/onecx-example-svc"
+  db:
+    enabled: true
+
